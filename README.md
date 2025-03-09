@@ -26,7 +26,7 @@
 
 ## 🚀 Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,php,javascript,html,css,react,angular,gcp,firebase" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,sql,php,js,html,css,react,angular,gcp,firebase,github,laravel" alt="Skills" />
 </p>
 
 ## 📜 Certifications  
