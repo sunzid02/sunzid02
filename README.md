@@ -1,34 +1,47 @@
+<p align="center">
+  <a href="https://github.com/sunzid02">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Actively+Always+Learning!;Exploring+New+Technologies!" alt="Typing Animation" />
+  </a>
+</p>
+
 # Hi there! 👋 I'm Sarker Sunzid Mahmud  
+
+<p align="center">
+  <a href="https://github.com/sunzid02">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Data+Scientist+%7C+Software+Engineer+%7C+Web+Developer;Always+learning+new+technologies!" alt="Typing SVG" />
+  </a>
+</p>
 
 🌟 Welcome to my GitHub profile!  
 
 ## 🚀 About Me  
 - 🎓 Master's student in **Data Science** at **Technical University Dortmund**  
-- 💼 Currently working as a **Web Developer at K&K**  
+- 💼 Currently working as a **Software Engineer at K&K**  
 - 🔭 Previously worked as a **Data Analyst, Data Engineer, and Software Engineer**  
 - 🌱 Passionate about **Data Science, Machine Learning, Cloud, and Web Technologies**  
 - 💬 Ask me about **Python, SQL, Data Engineering, Web Development, and Cloud Platforms**  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sarker-sunzid-mahmud) | [Email](mailto:sunzid02@gmail.com)  
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunzid02&show_icons=true&theme=dark)  
-
-## 📌 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunzid02&layout=compact&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunzid02&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunzid02&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ## 🚀 Skills  
-- **Programming Languages:** Python, SQL, PHP, JavaScript  
-- **Web Development:** HTML, CSS, JavaScript, jQuery, Bootstrap, Angular, React.js  
-- **Data Processing & Analysis:** Pandas, NumPy, Dask, StatsModels, Scikit-Learn  
-- **Statistical Analysis & Modeling:** Regression Analysis, Hypothesis Testing, A/B Testing  
-- **Data Visualization:** Power BI, MS Excel, Matplotlib, Seaborn, PowerPoint  
-- **Database Management:** SQL Server, MySQL, Oracle, MongoDB  
-- **Data Engineering & ETL:** SQL Queries, Data Cleaning, Data Transformation, API Development  
-- **Cloud & Infrastructure:** Google Cloud Platform, Firebase, Pusher  
-- **A/B Testing & Experimentation:** Optimizely, VWO, Google Optimize  
-- **Development & IDEs:** Jupyter Notebook, Visual Studio Code, PyCharm  
-- **Version Control & Collaboration:** GitHub, BitBucket, Kanban, Jira  
-- **Operating Systems:** Windows, Linux (Ubuntu)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ## 📜 Certifications  
 - Python For Everybody (2020)  
