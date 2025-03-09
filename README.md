@@ -4,11 +4,7 @@
   </a>
 </p>
 
-# Hi there! 👋 I'm Sarker Sunzid Mahmud  
-
-<a href="https://github.com/sunzid02">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Data+Scientist+%7C+Software+Engineer+%7C+Web+Developer;Always+learning+new+technologies!" alt="Typing SVG" />
-</a>
+# Hi there! 👋 I'm Sarker..
 
 🌟 Welcome to my GitHub profile!  
 
@@ -26,7 +22,7 @@
 
 ## 🚀 Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,php,js,html,css,react,angular,gcp,firebase,github,laravel" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,react,angular,gcp,firebase,github,laravel" alt="Skills" />
 </p>
 
 ## 📜 Certifications  
