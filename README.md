@@ -6,11 +6,6 @@
 
 # Hi there! 👋 I'm Sarker Sunzid Mahmud  
 
-<p align="center">
-  <a href="https://github.com/sunzid02">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Data+Scientist+%7C+Software+Engineer+%7C+Web+Developer;Always+learning+new+technologies!" alt="Typing SVG" />
-  </a>
-</p>
 
 🌟 Welcome to my GitHub profile!  
 
