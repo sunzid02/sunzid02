@@ -4,18 +4,14 @@
   </a>
 </p>
 
-# Hi there! 👋 I'm Sarker Sunzid Mahmud  
-
-<a href="https://github.com/sunzid02">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Data+Scientist+%7C+Software+Engineer+%7C+Web+Developer;Always+learning+new+technologies!" alt="Typing SVG" />
-</a>
+# Hi there! 👋 I'm Sarker
 
 🌟 Welcome to my GitHub profile!  
 
 ## 🚀 About Me  
 - 🎓 Master's student in **Data Science** at **Technical University Dortmund**  
 - 💼 Currently working as a **Software Engineer at K&K**  
-- 🔭 Previously worked as a **Data Analyst, Data Engineer, and Software Engineer**  
+- 🔭 Previously worked as a **Data Analyst and Software Engineer**  
 - 🌱 Passionate about **Data Science, Machine Learning, Cloud, and Web Technologies**  
 - 💬 Ask me about **Python, SQL, Data Engineering, Web Development, and Cloud Platforms**  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sarker-sunzid-mahmud) | [Email](mailto:sunzid02@gmail.com)  
