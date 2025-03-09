@@ -4,9 +4,10 @@
 
 ## 🚀 About Me  
 - 🎓 Master's student in **Data Science** at **Technical University Dortmund**  
+- 💼 Currently working as a **Web Developer at K&K**  
 - 🔭 Previously worked as a **Data Analyst, Data Engineer, and Software Engineer**  
-- 🌱 Passionate about **Data Science, Machine Learning, and Cloud Technologies**  
-- 💬 Ask me about **Python, SQL, Data Engineering, and Cloud Platforms**  
+- 🌱 Passionate about **Data Science, Machine Learning, Cloud, and Web Technologies**  
+- 💬 Ask me about **Python, SQL, Data Engineering, Web Development, and Cloud Platforms**  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sarker-sunzid-mahmud) | [Email](mailto:sunzid02@gmail.com)  
 
 ## 📊 GitHub Stats  
@@ -17,6 +18,7 @@
 
 ## 🚀 Skills  
 - **Programming Languages:** Python, SQL, PHP, JavaScript  
+- **Web Development:** HTML, CSS, JavaScript, jQuery, Bootstrap, Angular, React.js  
 - **Data Processing & Analysis:** Pandas, NumPy, Dask, StatsModels, Scikit-Learn  
 - **Statistical Analysis & Modeling:** Regression Analysis, Hypothesis Testing, A/B Testing  
 - **Data Visualization:** Power BI, MS Excel, Matplotlib, Seaborn, PowerPoint  
