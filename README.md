@@ -10,9 +10,9 @@
 
 ## 🚀 About Me  
 - 🎓 Master's student in **Data Science** at **Technical University Dortmund**  
-- 💼 Currently working as a **Software Engineer at K&K**  
-- 🔭 Previously worked as a **Data Analyst and Software Engineer**  
-- 🌱 Passionate about **Data Science, Machine Learning, Cloud, and Web Technologies**  
+- 💼 Currently working as a **Software Engineer at [Atflow](https://www.atflow.de/)**  
+- 🔭 Previously worked as a **Software Engineer**  
+- 🌱 Passionate about **Full stack development, AI & ML**  
 - 💬 Ask me about **Python, SQL, Data Engineering, Web Development, and Cloud Platforms**  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sarker-sunzid-mahmud) | [Email](mailto:sunzid02@gmail.com)  
 
