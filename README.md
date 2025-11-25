@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="generated-image (2).png" alt="Sarker Sunzid Mahmud banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm <span style="color:#0066FF;">Sarker Sunzid Mahmud</span> 👋</h1>
 
 <p align="center">
