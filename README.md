@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="generated-image%20(2).png" alt="Sarker Sunzid Mahmud banner" width="100%" />
+  <img src="cd.jpeg" alt="Sarker Sunzid Mahmud banner" width="100%" />
 </p>
 
-<h1 align="center" style="font-weight:700;">
-  Connecting the dots<span style="color:#0066FF;">...</span> ✨
-</h1>
 
 ---
 
